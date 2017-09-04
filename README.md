@@ -4,7 +4,7 @@ NET Core 2.0 Chat Web App.
 
 The `/app` folder contains the Chat Web App project.
 
-The `/web` folder contains the [Web Apps binaries](https://github.com/ServiceStack/WebApp).
+The `/web` folder contains the [Web Apps binaries](https://github.com/NetCoreWebApps/Web).
 
 See [templates.servicestack.net/docs/web-apps](http://templates.servicestack.net/docs/web-apps) to learn about ServiceStack Web Apps.
 
