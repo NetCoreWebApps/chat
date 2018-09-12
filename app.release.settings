@@ -1,8 +1,5 @@
 debug false
 name Chat Web App
-port 5000
-contentRoot ~/../chat
-webRoot ~/../chat
 
 oauth.RedirectUrl http://chat.web-app.io/
 oauth.CallbackUrl http://chat.web-app.io/auth/{0}

@@ -1,13 +1,25 @@
-# Chat Web App
+# chat
 
-NET Core 2.0 Chat Web App.
+Chat is a highly extensible Web App with custom AppHost that leverages OAuth + Server Events for real-time Chat
 
-The `/app` folder contains the Chat Web App project.
+[![](https://raw.githubusercontent.com/NetCoreApps/TemplatePages/master/src/wwwroot/assets/img/screenshots/chat.png)](http://chat.web-app.io)
 
-The `/web` folder contains the [Web Apps binaries](https://github.com/NetCoreWebApps/Web).
+## Install
 
-See [templates.servicestack.net/docs/web-apps](http://templates.servicestack.net/docs/web-apps) to learn about ServiceStack Web Apps.
+Run as a Desktop App (Windows only):
 
-[![](http://templates.servicestack.net/assets/img/screenshots/chat.png)](http://chat.web-app.io)
+    $ dotnet tool install -g app
 
-> Live Demo: http://chat.web-app.io
+    $ app install chat
+    $ cd chat && app
+
+Run as a .NET Core Web App (Windows, macOS, Linux):
+
+    $ dotnet tool install -g web
+
+    $ web install chat
+    $ cd chat && web
+
+## Learn
+
+See [templates.servicestack.net/docs/web-apps](http://templates.servicestack.net/docs/web-apps) to learn about ServiceStack .NET Core 2.1 Web Apps.
