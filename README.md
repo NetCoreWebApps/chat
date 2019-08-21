@@ -1,4 +1,10 @@
-# chat
+# This project has moved to
+
+### https://github.com/sharp-apps/chat
+
+---
+
+## chat
 
 Chat is a highly extensible Web App with custom AppHost that leverages OAuth + Server Events for real-time Chat
 
